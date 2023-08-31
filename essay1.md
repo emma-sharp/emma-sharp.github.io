@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Why MIS?"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2023-08-31
 published: true
 labels:
-  - Software Engineering
-  - Learning
+  - MIS
+  - My Major
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
