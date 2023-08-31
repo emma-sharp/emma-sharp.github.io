@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/scuba.jpg
 title: "Introduction"
 date: 2023-08-31
 published: true
