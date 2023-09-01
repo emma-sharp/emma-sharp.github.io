@@ -24,19 +24,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "SQL", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub", "Tableau" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Hawai'i, Honolulu, HI",
+      "area": "Management Information Systems (expected Fall 2024)",
+      "studyType": "B.B.A.",
+      "startDate": "2022-08",
       "endDate": "Present",
       "courses": [
       ]
@@ -44,41 +44,41 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Interstel Technologies",
+      "position": "Webmaster/Marketing Intern",
+      "website": "https://www.interstel.tech/",
+      "startDate": "2023-08",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Head of Marketing for the company",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Examine the private and commercial profit potential of the company’s embedded operations software for robotics, iCOSMOS, including spacecraft, aerial, ground, and submersible vehicle applications",
+        "Identify potential customer bases, government and civilian, for Interstel’s aerospace operations software"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Island Divers Hawaii",
+      "position": "Marketing Analytics Manager",
+      "website": "https://www.oahuscubadiving.com/",
+      "startDate": "2023-04",
+      "endDate": "2023-08",
+      "summary": "Head of company advertisement and development",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Implemented search engine optimization strategies to improve website visibility and performance",
+        "Measured and analyzed the behavior of customers on various website and point of sale interfaces"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Seamester",
+      "website": "https://www.seamester.com/",
+      "position": "Sailing Intern",
+      "startDate": "2022-02",
+      "endDate": "2022-05",
+      "summary": "Crewmember and sailing student onboard S/Y Vela",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Lived aboard and helped crew a sailboat through 9 countries and 3,500 nautical miles in the Caribbean",
+        "Earned multiple nautical science related certifications, including International Sail Crew, VHF Radio Communication, and Navigation Master"
       ]
     },
     {
@@ -89,24 +89,24 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Member, Information Technology Management Association, UH Mānoa, 2022-Present",
+        "Member, International Business Organization, UH Mānoa, 2022-Present",
+        "Member, American Association of Undergraduate Women, UH Mānoa, 2022-Present"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's List",
+      "date": "All Semesters",
+      "awarder": "University of Hawai'i",
+      "summary": "Scholarly award for students who demonstrate academic excellance based on their GPA"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
