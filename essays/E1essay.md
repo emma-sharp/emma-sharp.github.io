@@ -4,7 +4,7 @@ type: essay
 title: "E1: UI Basics Technical Essay"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-12
-published: false
+published: true
 labels:
   - ITM352
 ---
