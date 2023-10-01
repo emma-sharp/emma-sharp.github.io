@@ -1,0 +1,17 @@
+---
+layout: essay
+type: essay
+title: "E_XC: Talk Story with Tech Professionals"
+# All dates must be YYYY-MM-DD format!
+date: 2023-09-30
+published: true
+labels:
+  - ITMA
+  - MIS
+---
+
+## BrowserHistory6
+
+The BrowserHistory6 WOD focused on the aspects of building a dynamic webpage. It was mainly a formatting exercise for the "History of Browsers" webpage that I created throughout the previous WODs. I used onmousover and onclick actions and attached links to other pages through the use of buttons. Here's the link for further details: 
+<a href="https://dport96.github.io/ITM352/morea/040.dynamic-web-pages/experience-browserhistory6.html">BrowserHistory6</a>
+
