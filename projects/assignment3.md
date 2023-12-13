@@ -14,6 +14,8 @@ summary: "Develop a prototype of your entire application that addresses the foll
 
 </div>
 
+<img width="500px" src="../img/flowchart.jpg">
+
 ### 1. Show what each page will look like. The pages do not have to be “functional” but the design should clear. Here is an example PPT prototype
 
 
