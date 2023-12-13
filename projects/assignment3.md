@@ -13,7 +13,7 @@ summary: "Develop a prototype of your entire application that addresses the foll
 <div class="text-center p-4">
 
 </div>
-Here is my screencast presentation covering my progress so far in Assignment 3!
+<a href="https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2.html">Here</a> is my screencast presentation covering my progress so far in Assignment 3!
 
 <img width="800px" src="../img/flowchart.jpg">
 
