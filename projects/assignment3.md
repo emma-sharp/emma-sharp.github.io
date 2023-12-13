@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/scuba.jpg
+image: img/flowchart.jpg
 title: "Checkpoint Assignment #3"
 date: 2023-12-12
 published: true
