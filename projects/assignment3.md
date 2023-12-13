@@ -14,7 +14,7 @@ summary: "Develop a prototype of your entire application that addresses the foll
 
 </div>
 
-<img width="500px" src="../img/flowchart.jpg">
+<img width="800px" src="../img/flowchart.jpg">
 
 ### 1. Show what each page will look like. The pages do not have to be “functional” but the design should clear. Here is an example PPT prototype
 In my design, there's a dedicated shopping cart page where users can adjust product quantities with ease. It resembles the invoice page, offering a preview of selected items and their amounts. The cart, which employs session-based data storage, tracks the user's selections. Modifications to product quantities are straightforward, and once finalized, users can proceed to checkout by clicking on the "Complete Purchase" button, leading to the Invoice page. However, to access this page, users must be logged in or register; otherwise, they are redirected to the login page.
