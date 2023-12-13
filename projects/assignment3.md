@@ -13,6 +13,7 @@ summary: "Develop a prototype of your entire application that addresses the foll
 <div class="text-center p-4">
 
 </div>
+Here is my screencast presentation covering my progress so far in Assignment 3!
 
 <img width="800px" src="../img/flowchart.jpg">
 
