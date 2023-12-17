@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Checkpoint Assignment #3 | Emma Sharp | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/emma-sharp.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Emma Sharp | Professional Portfolio">
+    <meta property="og:url" content="https://emma-sharp.github.io/projects/assignment3.html">
+    <meta property="og:title" content="Checkpoint Assignment #3 | Emma Sharp | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/emma-sharp.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Checkpoint Assignment #3 | Emma Sharp | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Emma Sharp</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Checkpoint Assignment #3</h1>
+ <div class="text-center p-4">
+
+</div>
+<p><a href="https://drive.google.com/file/d/1wFRdxsKlzRZKuSZ8ynrRA7WcOf3iohMD/view?usp=drive_link">Here</a> is my screencast presentation covering my progress so far in Assignment 3!</p>
+
+<p><img width="800px" src="../img/flowchart.jpg" /></p>
+
+<h3 id="design-for-my-sites-shopping-cart">Design for my site’s shopping cart</h3>
+<p>In my design, there’s a dedicated shopping cart page where users can adjust product quantities with ease. It resembles the invoice page, offering a preview of selected items and their amounts. The cart, which employs session-based data storage, tracks the user’s selections. Modifications to product quantities are straightforward, and once finalized, users can proceed to checkout by clicking on the “Complete Purchase” button, leading to the Invoice page. However, to access this page, users must be logged in or register; otherwise, they are redirected to the login page.</p>
+
+<h3 id="using-the-cart">Using the cart</h3>
+<p>In my shopping cart system, session management is utilized to meticulously track the quantities of products selected by users. Each type of product is given a unique key for identification, and the quantities are neatly stored in an array. This structured approach not only keeps product choices organized but also ensures they are readily accessible for review and modification. This system enhances user experience by maintaining a clear and concise record of their selections, streamlining the shopping process. For example, the cart might look like this: {Emma: [1, 2, 3], Dan: [4, 5, 6]}.</p>
+
+<h3 id="security-concerns">Security concerns</h3>
+<p>To enhance security, my system incorporates an authentication mechanism using cookies, especially crucial during the shopping process. The server checks for a valid cookie to confirm a user’s logged-in status before allowing access to the invoice page. Users without a valid cookie are redirected to the login page. To mitigate cookie vulnerabilities, I’m planning on implementing additional security measures such as using secure, and I’m exploring encryption and frequent validation checks to bolster security further. This multi-layered approach ensures robust protection against unauthorized access.</p>
+
+<h3 id="personalization-in-my-ui">Personalization in my UI</h3>
+<p>Upon successful login, personalization in my UI will be achieved by displaying user-specific information like their name, login status, and number of items in the shopping cart on each page. This can be done using sessions or cookies to store and retrieve user data. For example, after logging in, the user’s ID or name can be saved in the session array or a cookie. This information is then used to personalize the UI on each page, ensuring the user feels recognized and the experience feels tailored to them. The implementation will involve retrieving the user’s information from the session or cookie and dynamically inserting it into the HTML of each page.</p>
+
+<h3 id="how-im-approaching-assignment-3-differently-than-assignment-2">How I’m approaching Assignment 3 differently than Assignment 2</h3>
+<p>In Assignment 3, I am focusing on adding enhanced features and complexity compared to Assignment 2. This involves implementing sessions and cookies for user authentication and state management, adding a dynamic shopping cart that allows for multiple products and quantities, and integrating a more advanced checkout process including invoice generation and email functionality. Additionally, I am ensuring a more robust user experience by maintaining the user’s state across sessions and offering a personalized UI based on their interactions and choices. The overall design is more user-centric and interactive, with improved navigation and statefulness. I am planning on tackling this by devoting a lot more time to additional research compared to how I completed Assignment 2. A lot of the code I am implementing in Assignment 3 requires me to watch YouTube tutorials, study up on specific JavaScript features, and search for useful example code.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
